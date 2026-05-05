@@ -9,7 +9,9 @@
 HTML | CSS | JavaScript 
 
   💻Featured Projects
+  
   Weather Dashboard
+  
 Site: https://weather-dashboard-flame-six.vercel.app
 GitHub: https://github.com/Maksim-Rakul/Weather-Dashboard
 
