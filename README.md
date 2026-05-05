@@ -13,6 +13,7 @@ HTML | CSS | JavaScript
   Weather Dashboard
   
 Site: https://weather-dashboard-flame-six.vercel.app
+
 GitHub: https://github.com/Maksim-Rakul/Weather-Dashboard
 
 Tech stack: HTML, CSS, JS
@@ -23,9 +24,14 @@ city name or user geolocation. The project focuses on practical API integration 
 (Celsius/Fahrenheit), and light/dark theme toggle. JavaScript is used for handling API requests, 
 dynamic UI updates, and improving usability across different devices.
 
+
+
   💻Featured Projects  
+  
   YachtJet
+  
 Site: https://segazzs.github.io/YachttJet/
+
 GitHub: https://github.com/Segazzs/YachttJet
 
 Tech stack: HTML, CSS, JS
@@ -35,9 +41,14 @@ showcase premium yachts and engage users. A responsive interface, fleet descript
 and interactive elements for navigation and interaction are implemented. 
   JavaScript is used to create a mobile menu and improve UX on different devices.
 
+
+
   💻Featured Projects 
+  
   Vishivanka-Vibes
+  
 Site: https://segazzs.github.io/Vishivanka-Vibes/
+
 GitHub: https://github.com/Segazzs/YachttJet
 
 Tech stack: HTML, CSS, JS
