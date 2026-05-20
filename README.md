@@ -9,6 +9,22 @@
 HTML | CSS | JavaScript 
 
   💻Featured Projects
+
+  Movie Search App
+
+Site: https://movie-search-app-three-nu.vercel.app
+
+GitHub: https://github.com/Maksim-Rakul/Movie-Search-App
+
+Tech stack: HTML, CSS, JS, REST API
+
+   Project Description: A responsive web application for searching movies and TV series, viewing trending content, and exploring detailed information about films, shows, and actors using the TMDB API. The project focuses on practical API integration, performance optimization, and user experience. Features include multi-category browsing (Popular, Top Rated, Now Playing, Upcoming), daily/weekly trending views, real-time search with debounce optimization, detailed media pages with cast, reviews, trailers and image galleries, actor filmography pages, genre filtering with movie/TV toggle and fully responsive design across all devices. JavaScript is used for handling asynchronous API requests, dynamic UI updates, slider initializations, and improving usability across different devices.
+
+
+
+   
+
+  💻Featured Projects
   
   Weather Dashboard
   
@@ -16,7 +32,7 @@ Site: https://weather-dashboard-flame-six.vercel.app
 
 GitHub: https://github.com/Maksim-Rakul/Weather-Dashboard
 
-Tech stack: HTML, CSS, JS
+Tech stack: HTML, CSS, JS, REST API
 
    Project Description: A responsive web application for checking current weather and a 5-day forecast by 
 city name or user geolocation. The project focuses on practical API integration and user experience. 
