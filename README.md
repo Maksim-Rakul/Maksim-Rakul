@@ -17,7 +17,7 @@ GitHub: https://github.com/Maksim-Rakul/Campers
 
 Tech stack: Tech stack: HTML, CSS, TypeScript, JavaScript, React, Vite, REST API, Axios, TanStack Query, Formik, Yup, CSS Modules
 
-Project Description: A responsive web application for browsing and exploring camper vans and motorhomes. The project focuses on practical API integration, clean component architecture, and user experience. Features include a home page with a call-to-action, a catalog page displaying all available campers with filtering options, and detailed camper pages with full specifications, photos, and descriptions. The application uses TypeScript for type safety, React Router for seamless navigation, TanStack Query for efficient server state management and caching, and CSS Modules for component-scoped styling. Fully responsive design ensures correct display across all devices from mobile to desktop. The project demonstrates modern React patterns, including custom hooks, component composition, and clean separation of concerns.
+Project Description: web application for browsing and exploring camper vans and motorhomes. The project focuses on practical API integration, clean component architecture, and user experience. Features include a home page with a call-to-action, a catalog page displaying all available campers with filtering options, and detailed camper pages with full specifications, photos, and descriptions. The application uses TypeScript for type safety, React Router for seamless navigation, TanStack Query for efficient server state management and caching, and CSS Modules for component-scoped styling.
 
   💻Featured Projects
 
