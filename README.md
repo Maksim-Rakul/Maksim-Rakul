@@ -10,6 +10,17 @@ HTML | CSS | JS | TS | React
 
 💻Featured Projects
 
+NoteHub
+
+Site: https://note-hub-liard.vercel.app/
+GitHub: https://github.com/Maksim-Rakul/NoteHub
+
+Tech stack: Tech stack: HTML, CSS, TypeScript, JavaScript, React, Vite, REST API, Axios, TanStack Query, Formik, Yup, CSS Modules
+
+NoteHub is a feature-rich note-taking application that allows users to efficiently manage their notes. The application integrates with a third-party API to provide reliable data storage and retrieval. With a clean and intuitive interface, users can create, edit, delete, search, and filter notes with ease.
+
+💻Featured Projects
+
 Campers
 
 Site: https://campers-amber.vercel.app
